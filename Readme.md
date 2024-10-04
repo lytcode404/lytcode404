@@ -15,9 +15,7 @@
 <a href="https://discord.gg/UjwKkJsXsf" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50"></a>
 </p>
 <!--- snake -->
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake">
-</div>
+
 <!--- trophy (start) -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
@@ -43,16 +41,10 @@
 <p>☁️ I’ve keen interest in cloud computing. So,I’m learning <strong>AWS</strong></p>
 </li>
 <li>
-<p>📝 I regularly write articles on <a href="https://1010nishant.hashnode.dev/">Hashnode</a></p>
-</li>
-<li>
 <p>💬 Ask me about <strong>AWS, react, react-native, nodejs, mongoDB</strong></p>
 </li>
 <li>
-<p>📫 Feel free to reach me out <strong><a href="mailto:nishantjangid6377@gmail.com">nishantjangid6377@gmail.com</a></strong></p>
-</li>
-<li>
-<p>🏠 Also We’ve a tech community called <a href="https://discord.com/invite/p4TWyft886">Dev Hac</a>.</p>
+<p>📫 Feel free to reach me out <strong><a href="mailto:nishantjangid6377@gmail.com">rdilshad3559@gmail.com</a></strong></p>
 </li>
 </ul>
 <!--Intro end-->
